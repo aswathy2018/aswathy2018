@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/aswathy2018" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Aswathy+Sudhakaran;MERN+Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Aswathy+Sudhakaran;MERN+Stack+Developer+%26+" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -27,16 +27,16 @@
 
 ### 🖤 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswathy-sudhakaran" target="_blank">
+  <a href="https://www.linkedin.com/in/aswathy-sudhakaran-89307623b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:aswathy2018@gmail.com" target="_blank">
+  <a href="mailto:aswathysudhakaran3002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/__.as._.wat._.hy.__/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/nmGfWMZA8x/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
 </p>
@@ -60,8 +60,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,figma,postman,nginx,linux,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express,mongodb,postgres,mysql,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=,figma,postman,nginx,linux,git,github,aws,firebase,npm,bash,vercel," />
 </p>
 
 ---
