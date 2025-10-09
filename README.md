@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/aswathy2018" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Aswathy+Sudhakaran;MERN+Stack+Developer+%26+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Aswathy+Sudhakaran;MERN+Stack+Developer+" alt="Typing SVG" />
   </a>
 </h1>
 
