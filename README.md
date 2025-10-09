@@ -60,8 +60,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express,mongodb,postgres,mysql,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=,figma,postman,nginx,linux,git,github,aws,firebase,npm,bash,vercel," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,mongodb,postgres,mysql,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=,vite,figma,ps,postman,nginx,git,github,aws,firebase,npm,bash,windows,linux,vercel" />
 </p>
 
 ---
