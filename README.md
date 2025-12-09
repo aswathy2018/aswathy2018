@@ -58,18 +58,6 @@
 
 ---
 
-### 🌀 LeetCode Badges  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F89F1B&center=true&vCenter=true&width=400&lines=LeetCode+50+Days+Badge;LeetCode+100+Days+Badge" alt="Twisting Badges" />
-</p>
-
-<p align="center">
-  <img height="120" src="https://assets.leetcode.com/static_assets/others/50-days-badge.png" />
-  <img height="120" src="https://assets.leetcode.com/static_assets/others/100-days-badge.png" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,mongodb,postgres,mysql,bootstrap,tailwind" />
