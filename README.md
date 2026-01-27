@@ -66,11 +66,4 @@
 
 ---
 
-### 🔥 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswathy2018&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
 <h3 align="center">✨ “Code. Create. Inspire.” ✨</h3>
