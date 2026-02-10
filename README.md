@@ -1,69 +1,88 @@
 <!-- 🌸 Aswathy Sudhakaran | MERN Stack Developer -->
 
-<h1 align="center">
-  <a href="https://github.com/aswathy2018" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Aswathy+Sudhakaran;MERN+Stack+Developer+" alt="Typing SVG" />
-  </a>
-</h1>
+<!-- HERO SECTION -->
 
----
+<h1 align="center">Hi, I'm Aswathy Sudhakaran!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aswathy2018&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZ3cTJ2MzM4c29tdzFybHo5azRwN21wMDdtemQ0ejJzemI0MnFodCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/okFG5aJWqRGMYXoKTD/giphy.gif" width="300" />
 </p>
 
-<h3 align="center">💻 Passionate about Web Development | MERN Stack | UI Design 💻</h3>
 
----
 
-### 🧠 About Me
-🚀 I’m a **MERN Stack Developer** passionate about building responsive and user-friendly web applications.  
-💡 I love crafting clean UI designs and exploring modern JavaScript frameworks.  
-🌱 Currently enhancing my skills in **React, Node.js, and MongoDB**.  
-🎯 My goal is to work in a reputed company where I can grow and lead innovative projects.  
-💬 Ask me about **JavaScript, React, Node.js, Express, and MongoDB**.
+<h3 align="center">
+🚀 MERN Stack Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner
+</h3>
 
----
-
-### 🖤 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswathy-sudhakaran-89307623b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aswathysudhakaran3002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/__.as._.wat._.hy.__/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/nmGfWMZA8x/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white"/>
-  </a>
+Building responsive, scalable, and user-friendly web applications.
 </p>
 
----
-
-### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswathy2018&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aswathy2018&theme=radical&hide_border=true" height="165">
+  <img src="https://komarev.com/ghpvc/?username=aswathy2018&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
 ---
 
-### 💻 Top Languages
+## 👩‍💻 About Me
+
+- 🚀 MERN Stack Developer passionate about modern web technologies  
+- 🎨 Strong focus on clean UI and great user experience  
+- 🌱 Currently sharpening my skills in **TypeScript, SQL, DSA**  
+- 🎯 Goal: Become a developer who builds impactful products  
+- 💬 Ask me about **JavaScript, React, Express, Node, Mongo**
+
+---
+
+## 🧠 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2018&layout=compact&theme=radical&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,git,github,aws,firebase,figma,vite,postman,linux,bash" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center" style="display: grid; grid-template-columns: repeat(12, auto); gap: 8px; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,mongodb,postgres,mysql,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=,vite,figma,ps,postman,nginx,git,github,aws,firebase,npm,bash,windows,linux,vercel" />
+## 🏆 LeetCode Achievements
+
+<p align="center">
+  <a href="https://leetcode.com/u/nmGfWMZA8x/">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=nmGfWMZA8x&theme=dark&border=border&animated=true" />
+  </a>
+</p>
+
+
+<p align="center">
+🔥 Solving problems daily to strengthen problem-solving skills.
 </p>
 
 ---
 
-<h3 align="center">✨ “Code. Create. Inspire.” ✨</h3>
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="www.linkedin.com/in/aswathy-sudhakaran-89307623b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aswathysudhakaran3002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nmGfWMZA8x/">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aswathy2018&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=aswathy2018&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2018&layout=
