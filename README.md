@@ -60,20 +60,16 @@ Building responsive, scalable, and user-friendly web applications.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/aswathy2018" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aswathy-sudhakaran-89307623b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/nmGfWMZA8x/">
+    <img src="https://cdn.simpleicons.org/leetcode" width="45"/>
   </a>
-
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="mailto:aswathysudhakaran3002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
 </p>
 
@@ -82,13 +78,12 @@ Building responsive, scalable, and user-friendly web applications.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aswathy2018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2018&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=aswathy2018&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswathy2018&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aswathy2018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2018&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
