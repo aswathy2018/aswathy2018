@@ -73,19 +73,3 @@ Building responsive, scalable, and user-friendly web applications.
   </a>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=aswathy2018&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aswathy2018&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswathy2018&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aswathy2018&theme=tokyo-night&hide_border=true" />
-</p>
