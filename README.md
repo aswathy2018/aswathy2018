@@ -11,7 +11,7 @@
 
 
 <h3 align="center">
-🚀 MERN Stack Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner
+🚀 MERN Stack Developer | 💡 Tech Enthusiast
 </h3>
 
 <p align="center">
@@ -27,17 +27,16 @@ Building responsive, scalable, and user-friendly web applications.
 ## 👩‍💻 About Me
 
 - 🚀 MERN Stack Developer passionate about modern web technologies  
-- 🎨 Strong focus on clean UI and great user experience  
-- 🌱 Currently sharpening my skills in **TypeScript, SQL, DSA**  
+- 🎨 Strong focus on clean UI and great user experience   
 - 🎯 Goal: Become a developer who builds impactful products  
-- 💬 Ask me about **JavaScript, React, Express, Node, Mongo**
+- 💬 Ask me about **JavaScript, React, Express, Node, Mongo, TypeScript**
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nextjs,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,git,github,aws,firebase,figma,vite,postman,linux,bash" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,git,github,aws,firebase,figma,vite,postman" />
 </p>
 
 ---
